@@ -6,7 +6,7 @@
 
 *Disclaimer*:
 The whole project is written and optimized by ChatGPT. Feel free to create issue if any and I will ask them to resolve it.
-
+ 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="100%" src="./docs/argus-personalaccountant-notification.png"> Notification |  <img width="100%" src="./docs/argus-personalaccountant-queries.png"> Queries |<img width="100%" src="./docs/argus-personalaccountant-scheduled.png"> Scheduled report |
